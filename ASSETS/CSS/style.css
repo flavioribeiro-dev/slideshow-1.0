@@ -1,0 +1,184 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --width_slider1: 900px;
+    --height_slider1: 473px;
+}
+
+
+/* ------------------------------- */
+
+header {
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+}
+
+
+.areaSlider {
+    width: var(--width_slider1);
+    height: var(--height_slider1);
+    margin: auto;
+    background-color: orange;
+}
+
+.areaSlider .slider {
+    width: var(--width_slider1);
+    height: var(--height_slider1);
+    overflow: hidden;
+}
+
+.areaSlider .slider .content {
+    display: flex;
+    width: fit-content;
+}
+
+.areaSlider .slider .content img {
+    width: var(--width_slider1);
+    height: var(--height_slider1);
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
